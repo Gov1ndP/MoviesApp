@@ -1,0 +1,51 @@
+body{
+    background: #131720;
+    font-family: sans-serif;
+}
+
+.topnav{
+    padding-top : 15px;
+    float: left;
+    width: 100%;
+}
+
+.active{
+    margin-right: 10px;
+    float: left;
+    color: white;
+    text-decoration: none;
+    font-size: 1.2rem;
+    text-transform: uppercase;
+}
+
+.inp{
+    padding-right: 10px;
+    float: right;
+    width: 200px;
+    height: 30px;
+    background-color: #151f30;
+    font-size: 15px;
+    border: solid white;
+    border-radius: 11px;
+}
+
+.image{
+    width: 300px;
+    height: 350px;
+    border-radius: 19px;
+}
+
+.card{
+    max-width: 300px;
+    margin: 15px;
+    background: #151f30;
+    padding: 15px 15px;
+    float: left;
+    text-align: center;
+    border-radius: 19px;
+}
+
+.title{
+    color:aliceblue; 
+    margin-block-start: 0em;
+}
